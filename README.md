@@ -23,6 +23,15 @@ Hi 👋, I'm Kaustubh Gaikwad
 
 ---
 
+# 🎯 Current Focus
+
+- 🤖 Learning Machine Learning & Deep Learning
+- 📊 Building Data Science Projects
+- 🌱 Exploring Open Source
+- 💡 Improving Problem Solving
+
+---
+
 # 💻 Tech Stack
 
 <p align="center">
@@ -89,28 +98,12 @@ Hi 👋, I'm Kaustubh Gaikwad
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0530&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0530&layout=compact&theme=github_dark"/>
-</p>
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Kaustubh0530&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kaustubh0530&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
