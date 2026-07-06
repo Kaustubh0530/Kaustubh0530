@@ -78,7 +78,7 @@ Hi 👋, I'm Kaustubh Gaikwad
 </a>
 
 <a href="https://www.kaggle.com/kaustubhgai569">
-<img src="https://skillicons.dev/icons?i=kaggle"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="https://www.pinterest.com/kaustubhgaikwad51130/">
@@ -92,8 +92,8 @@ Hi 👋, I'm Kaustubh Gaikwad
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0530&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0530&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0530&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0530&layout=compact&theme=github_dark"/>
 </p>
 ---
 
