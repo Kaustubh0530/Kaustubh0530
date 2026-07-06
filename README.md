@@ -1,17 +1,162 @@
-# 💫 About Me:
-👋 Hey there! I'm Kaustubh<br><br>I'm an AI & Data Science student who loves building, learning, and improving one project at a time. I'm passionate about exploring Artificial Intelligence, Machine Learning, Data Science, and Web Development, and I enjoy turning ideas into real, working applications.<br><br>I believe every project teaches something new, so you'll find me experimenting with different technologies, solving problems, and continuously sharpening my skills. Whether it's contributing to open-source, creating personal projects, or learning a new framework, I'm always excited to take on the next challenge.<br><br>When I'm not coding, you'll probably find me learning something new, planning my next project, or exploring new technologies that push me to grow.<br><br>🚀 Currently Learning: AI, Machine Learning, Data Science, Full-Stack Development, and Cloud Technologies<br><br>💡 Goal: Build impactful software, contribute to meaningful open-source projects, and keep learning every single day.<br><br>Thanks for stopping by! Feel free to explore my repositories, and if you have an interesting idea or just want to connect, I'm always happy to collaborate.<br>
+<h1 align="center">
+Hi 👋, I'm Kaustubh Gaikwad
+</h1>
 
+<h3 align="center">
+🚀 Aspiring Machine Learning Engineer | AI & Data Science Student | Open Source Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1505161558710554675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaustubh_gaikwad__01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-gaikwad-83a920257) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaustubhgaikwad51130) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kaustubh_200x)  ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustubhgaikwad51130@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kaustubh0530&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kaustubh0530&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kaustubh0530&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+End-to-End+Projects;Open+Source+Contributor;Always+Learning+Something+New!" />
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+
+- 🎓 AI & Data Science Student from India
+- 🌱 Currently learning Machine Learning, Data Science & MLOps
+- 💻 Passionate about Python, AI and Software Development
+- 🚀 Building projects to strengthen problem-solving skills
+- 📚 Exploring Open Source and GitHub
+- ⚡ Fun Fact: I learn best by building real projects from scratch.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EDA-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kaustubhgaikwad51130@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kaustubh-gaikwad-83a920257/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Kaustubh0530">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://discord.com/users/kaustubhg3005">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+<a href="https://www.instagram.com/kaustubh_gaikwad__01/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://twitter.com/Kaustubh_200x">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0530&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0530&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kaustubh0530&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kaustubh0530&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubh0530&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> "The best way to predict the future is to build it."
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kaustubh0530&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+Let's build something amazing together 🚀
+
+</h3>
