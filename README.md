@@ -77,6 +77,14 @@ Hi 👋, I'm Kaustubh Gaikwad
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
+<a href="https://www.kaggle.com/kaustubhgai569">
+<img src="https://skillicons.dev/icons?i=kaggle"/>
+</a>
+
+<a href="https://www.pinterest.com/kaustubhgaikwad51130/">
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -84,13 +92,9 @@ Hi 👋, I'm Kaustubh Gaikwad
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0530&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0530&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0530&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0530&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -103,12 +107,10 @@ Hi 👋, I'm Kaustubh Gaikwad
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaustubh0530&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Kaustubh0530&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
